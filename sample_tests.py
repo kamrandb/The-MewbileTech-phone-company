@@ -1,27 +1,4 @@
-"""
-CSC148, Winter 2019
-Assignment 1
 
-This is a revised version of the sample test module that includes
-two corrections:
-(1) Expected bill totals are now correctly based on
-the proper use of minutes and seconds, as described on Piazza:
-https://piazza.com/class/jpuk89lzot57ez?cid=536
-(2) The correct end date for term contracts is used, June 25, 2019,
-as stated on Piazza: https://piazza.com/class/jpuk89lzot57ez?cid=535
-
-It also uses a better name for one of the test methods and adds an
-additional test method.
-
-This code is provided solely for the personal and private use of
-students taking the CSC148 course at the University of Toronto.
-Copying for purposes other than this use is expressly prohibited.
-All forms of distribution of this code, whether as given or with
-any changes, are expressly prohibited.
-
-All of the files in this directory and all subdirectories are:
-Copyright (c) 2019 Bogdan Simion, Diane Horton, Jacqueline Smith
-"""
 import datetime
 import pytest
 
